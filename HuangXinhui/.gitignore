@@ -3,4 +3,4 @@
 *.vscode
 
 # Ignore all files in any directory
-HuangXinhui/ImageClass/dataset/
+/ImageClass/dataset/
